@@ -1,1 +1,1 @@
-# AI-SC
+# PE Project
