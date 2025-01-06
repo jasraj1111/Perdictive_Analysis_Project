@@ -2,7 +2,7 @@
 
 This analysis aims to uncover meaningful patterns and relationships within our dataset through comprehensive Exploratory Data Analysis (EDA) and develop accurate predictive models based on these insights. By combining both exploratory and predictive approaches, we seek to derive actionable intelligence that can inform decision-making processes.
 
-#Significance of EDA
+Significance of EDA
 Exploratory Data Analysis serves as the foundation of our analytical process for several crucial reasons:
 - It enables the identification of underlying patterns, trends, and anomalies in the data that might not be immediately apparent
 - Helps in understanding the distribution and relationships between variables
@@ -10,7 +10,7 @@ Exploratory Data Analysis serves as the foundation of our analytical process for
 - Guides feature selection and engineering decisions for subsequent modeling
 - Provides initial insights that can generate testable hypotheses
 
-#Importance of Predictive Modeling
+Importance of Predictive Modeling
 The predictive modeling phase builds upon our exploratory findings to create robust forecasting capabilities:
 - Allows organizations to make data-driven decisions based on likely future outcomes
 - Enables the identification of key factors that influence target variables
